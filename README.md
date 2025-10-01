@@ -1,6 +1,6 @@
 # MATH103: Linear Algebra  
 
-| **MATH103** | Linear Algebra | **4 credits** |
+| **MATH103** | 📘 Linear Algebra | **4 credits** |
 |-------------|------------------|----------------|
 
 ---
@@ -37,3 +37,9 @@ By introducing the notion of an “inner product”, we may also speak of angles
 ### **Resources:**  
 1. *Linear Algebra* — Vivek Sahai and Vikas Bist  
 2. *Introduction to Linear Algebra* — Gilbert Strang  
+
+---
+
+### Course Website  
+Check out the full course site for lectures, assignments, and updates:  
+[Linear Algebra SAIU ’23](https://sites.google.com/view/linalgsaiu23/home)  
